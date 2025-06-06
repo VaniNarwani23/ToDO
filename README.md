@@ -19,15 +19,7 @@
 
 ---
 
-## 📸 Screenshots
 
-### 📋 Todo List View
-![Todo List View](./screenshots/todo-list.png)
-
-### 📭 Empty State
-![Empty State](./screenshots/empty-state.png)
-
----
 
 ## 🚀 Technologies Used
 
@@ -79,7 +71,8 @@ Open http://localhost:5173 in your browser to view the app.
 
 🌟 Author
 👩‍💻 Vani Narwani
-🔗 LinkedIn
+[LinkedIn](https://www.linkedin.com/in/vani-narwani-50a239274/)
+
 📬 Feel free to connect and share feedback!
 
 
