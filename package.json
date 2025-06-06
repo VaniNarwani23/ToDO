@@ -27,24 +27,4 @@
     "tailwindcss": "^3.4.17",
     "vite": "^6.3.5"
   }
-=======
-  "name": "@esbuild/win32-x64",
-  "version": "0.25.5",
-  "description": "The Windows 64-bit binary for esbuild, a JavaScript bundler.",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/evanw/esbuild.git"
-  },
-  "license": "MIT",
-  "preferUnplugged": true,
-  "engines": {
-    "node": ">=18"
-  },
-  "os": [
-    "win32"
-  ],
-  "cpu": [
-    "x64"
-  ]
->>>>>>> 339ce5f4f7de93f896e9f90891fb6e643c42a883
 }
