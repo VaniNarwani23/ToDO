@@ -1,8 +1,3 @@
-Here's a **professional and visually appealing `README.md` file** for your Todo App project, hosted at [To-Do App by Vani](https://to-do-2mmm-2drlnn6rp-vanis-projects-6eb66e48.vercel.app/):
-
----
-
-```markdown
 # 📝 Manage Your Todos - A Clean & Minimal Todo App
 
 > A simple, elegant, and responsive todo list web app built using **React** with a clean UI to help users manage their daily tasks effectively.
@@ -45,20 +40,20 @@ Here's a **professional and visually appealing `README.md` file** for your Todo 
 
 ## 📁 Project Structure
 
-```
-
 ├── public/
-│   └── index.html
+│ └── index.html
 ├── src/
-│   ├── components/
-│   │   └── TodoItem.jsx
-│   ├── App.jsx
-│   ├── index.js
-│   └── styles.css
+│ ├── components/
+│ │ └── TodoItem.jsx
+│ ├── App.jsx
+│ ├── index.js
+│ └── styles.css
 ├── package.json
 └── README.md
 
-````
+yaml
+Copy
+Edit
 
 ---
 
@@ -68,52 +63,27 @@ Here's a **professional and visually appealing `README.md` file** for your Todo 
 ```bash
 git clone https://github.com/yourusername/todo-app.git
 cd todo-app
-````
+Install dependencies
 
-2. **Install dependencies**
-
-```bash
+bash
+Copy
+Edit
 npm install
-```
+Run locally
 
-3. **Run locally**
-
-```bash
+bash
+Copy
+Edit
 npm run dev
-```
+Open http://localhost:5173 in your browser to view the app.
 
-4. Open `http://localhost:5173` in your browser to view the app.
-
----
-
-## 🌟 Author
-
-👩‍💻 **Vani Narwani**
-🔗 [LinkedIn](https://www.linkedin.com/in/vaninarwani)
+🌟 Author
+👩‍💻 Vani Narwani
+🔗 LinkedIn
 📬 Feel free to connect and share feedback!
 
----
+📄 License
+This project is open-source and available under the MIT License.
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## 💡 Inspiration
-
+💡 Inspiration
 This todo app was created as part of my learning journey in frontend development. It's clean, fast, and designed with simplicity in mind — perfect for everyday task management.
-
-```
-
----
-
-### ✅ Next Steps:
-
-1. Create a `screenshots` folder and add:
-   - First screenshot as `todo-list.png`
-   - Second screenshot as `empty-state.png`
-2. Replace the GitHub repo URL in `git clone` with your actual repo link.
-
-Would you like me to turn this into a downloadable `.md` file?
-```
