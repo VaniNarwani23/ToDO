@@ -68,11 +68,12 @@ Copy
 Edit
 npm run dev
 Open http://localhost:5173 in your browser to view the app.
+---
 
-🌟 Author
-👩‍💻 Vani Narwani
-[LinkedIn](https://www.linkedin.com/in/vani-narwani-50a239274/)
+## 🌟 Author
 
+👩‍💻 **Vani Narwani**  
+🔗 [LinkedIn](https://www.linkedin.com/in/vani-narwani-50a239274/)  
 📬 Feel free to connect and share feedback!
 
 
