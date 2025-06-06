@@ -82,6 +82,8 @@ Open http://localhost:5173 in your browser to view the app.
 🔗 LinkedIn
 📬 Feel free to connect and share feedback!
 
+
+
 📄 License
 This project is open-source and available under the MIT License.
 
